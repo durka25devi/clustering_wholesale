@@ -152,7 +152,3 @@ scipy
 * Elbow curve for KMeans
 * Dendrogram for Hierarchical clustering
 * k-distance graph for DBSCAN
-
-
-
-Would you like me to add **visual result images (Elbow, Dendrogram, DBSCAN plots)** as embedded markdown (`![image](path)`) for your README too?
